@@ -1,3 +1,5 @@
+# exploreKorea
+
 -	Responsive Website Design Using HTML CSS & JavaScript.
 -	Contain email validation, image slider, modal popup, tooltip and animations when scrolling (only on desktop and laptop screens).
 -	Smooth scrolling in each section.
